@@ -1,0 +1,14 @@
+{
+  "name": "convertor",
+  "version": "1.0.0",
+  "description": "Convert from hexadecimal to base64",
+  "main": "bin/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zain Syed",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
